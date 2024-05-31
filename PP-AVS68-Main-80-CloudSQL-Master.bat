@@ -1,0 +1,1 @@
+gcloud compute ssh avs68-preprod-cloudsql-mgmt-1 --project cto-opus-middleware-np-acce16 --zone northamerica-northeast1-a --ssh-flag="-L 6016:10.0.0.20:3306"

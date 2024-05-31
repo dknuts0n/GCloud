@@ -1,1 +1,1 @@
-gcloud compute ssh avs66-dev-db-bastion-001 --project cto-opus-middleware-dv-77ef40 --zone us-west1-a --ssh-flag="-L 6011:10.0.1.18:3306"
+gcloud compute ssh avs66-dev-db-bastion-001 --project cto-opus-middleware-dv-77ef40 --zone us-west1-a --ssh-flag="-L 6011:10.0.1.2:3306"
