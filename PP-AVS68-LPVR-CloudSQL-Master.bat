@@ -1,1 +1,0 @@
-gcloud compute ssh avs66-prepr-bastion-001 --project cto-opus-middleware-np-acce16 --zone northamerica-northeast1-a --ssh-flag="-L 7036:10.0.0.200:3306"

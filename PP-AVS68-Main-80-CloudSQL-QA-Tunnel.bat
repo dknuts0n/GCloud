@@ -1,1 +1,0 @@
-gcloud compute ssh avs-qa-bastion-001 --project cto-opus-middleware-qa-1564f1 --zone us-west1-a  --ssh-flag="-L 6016:10.0.0.20:3306"

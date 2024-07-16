@@ -1,0 +1,1 @@
+gcloud compute ssh avs66-sit-db-bastion-001 --project cto-middleware-sit-f4b01c --zone us-west1-a --ssh-flag="-L 6014:10.0.1.218:3306"

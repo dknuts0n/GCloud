@@ -1,1 +1,0 @@
-gcloud compute ssh avs66-pr-bastion-001 --project cto-middleware-oregon-pr-252a --zone us-west1-a --ssh-flag="-L 6020:172.18.0.84:3306"
